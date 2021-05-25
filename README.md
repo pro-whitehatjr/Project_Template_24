@@ -1,3 +1,1 @@
-# hunter-archer
-
-Project Solution for hunter-archer
+# Project_Template_24
